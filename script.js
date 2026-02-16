@@ -5,12 +5,12 @@
 const portfolioVideos = [
     {
         title: "DED INSIDE - OPEN THE EYE ",
-        youtubeId: "3yHP72K3rdk",
+        youtubeId: "lZ3kLnXm4nM",
         category: "Beat Production"
     },
     {
         title: "YA ALI - BOLLYWOOD DRILL",
-        youtubeId: "lZ3kLnXm4nM",
+        youtubeId: "3yHP72K3rdk",
         category: "Beat Production"
     },
     {
