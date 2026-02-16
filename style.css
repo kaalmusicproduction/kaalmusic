@@ -906,7 +906,7 @@ section {
    Contact Section
    =================================== */
 .contact-section {
-    background: var(--secondary-bg);
+    background: var(--primary-bg);
 }
 
 .contact-info {
@@ -1395,5 +1395,5 @@ section {
         font-size: 1.5rem;
     }
 
-    
+
 }
